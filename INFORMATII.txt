@@ -1,7 +1,7 @@
 PCLP — Programarea Calculatoarelor și Limbaje de Programare
 An universitar 2026–2027
 
-Etapa disponibilă: 00.
+Etapa disponibilă: L01.
 Materialele comune se află în 2026/00_Organizare/student.
 Laboratoarele se publică progresiv în 2026/Lxx/student.
 Documentele Word și exemplele Python pot fi descărcate din Code > Download ZIP.
