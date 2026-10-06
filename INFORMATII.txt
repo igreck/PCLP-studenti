@@ -1,8 +1,9 @@
 PCLP — Programarea Calculatoarelor și Limbaje de Programare
-An universitar 2026–2027
+Materiale pentru studenți
 
-Etapa disponibilă: L01.
-Materialele comune se află în 2026/00_Organizare/student.
-Laboratoarele se publică progresiv în 2026/Lxx/student.
-Documentele Word și exemplele Python pot fi descărcate din Code > Download ZIP.
-Datele întâlnirilor și termenele se comunică la laborator.
+Etape disponibile: niciuna.
+00 = materiale comune. Laboratoarele se publică progresiv.
+Materialele disponibile se găsesc în subfolderele student din 2026.
+Documentele au și copii PDF pentru consultare directă pe GitHub.
+Descărcare: Code > Download ZIP sau fișiere individuale.
+Retragerea din versiunea curentă nu șterge istoricul Git sau copiile descărcate.

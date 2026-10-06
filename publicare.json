@@ -1,12 +1,6 @@
 {
   "an_universitar": "2026-2027",
-  "etapa": "L01",
-  "fisiere": {
-    "2026/00_Organizare/student/Catalog_proiecte.docx": "85cbf3ff3c181fd4f239ce1bb3996ae4e301fbb59b3596da12bbbbd737460997",
-    "2026/00_Organizare/student/Documentatie_proiect.docx": "6da29a1284dba3dfcb3705b02f3e89ec44b0d4f49aef911dbac4b549d5b90479",
-    "2026/00_Organizare/student/Fisa_echipei.docx": "ff6c7e1866da4d27dd93966c5dc3d57289f1089593fea30d997083b82bfa81f3",
-    "2026/00_Organizare/student/Ghid_student.docx": "f1b2c92f3f0df3182272871ff076ae26e4fddc7a599ca8511c5572a31437e43e",
-    "2026/L01/student/Suport_laborator.docx": "21b4a5692b64a2c7525184433d400db79f81dc3d01a4e00de47acf82dafdbc89",
-    "2026/L01/student/exemple/L01_conversie.py": "3a4ffab3d19113c998a1264c0c0187d97e0c3ba6bd7cab066ec0d07634208527"
-  }
+  "etapa": null,
+  "etape_publicate": [],
+  "fisiere": {}
 }
