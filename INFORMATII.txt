@@ -1,7 +1,7 @@
 PCLP — Programarea Calculatoarelor și Limbaje de Programare
 Materiale pentru studenți
 
-Etape disponibile: niciuna.
+Etape disponibile: 00, L01.
 00 = materiale comune. Laboratoarele se publică progresiv.
 Materialele disponibile se găsesc în subfolderele student din 2026.
 Documentele au și copii PDF pentru consultare directă pe GitHub.
