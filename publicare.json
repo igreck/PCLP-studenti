@@ -1,9 +1,10 @@
 {
   "an_universitar": "2026-2027",
-  "etapa": "L01",
+  "etapa": "L02",
   "etape_publicate": [
     "00",
-    "L01"
+    "L01",
+    "L02"
   ],
   "fisiere": {
     "2026/00_Organizare/student/Catalog_proiecte.docx": "85cbf3ff3c181fd4f239ce1bb3996ae4e301fbb59b3596da12bbbbd737460997",
@@ -16,6 +17,10 @@
     "2026/00_Organizare/student/Ghid_student.pdf": "be426e5dd86964229f7d8e3c73276efde997d214cc8109223f978633d3cc5550",
     "2026/L01/student/Suport_laborator.docx": "21b4a5692b64a2c7525184433d400db79f81dc3d01a4e00de47acf82dafdbc89",
     "2026/L01/student/Suport_laborator.pdf": "d89b1215a609d14097831130101c9ddad8b4bbca76b970836bf024f7f489af8a",
-    "2026/L01/student/exemple/L01_conversie.py": "3a4ffab3d19113c998a1264c0c0187d97e0c3ba6bd7cab066ec0d07634208527"
+    "2026/L01/student/exemple/L01_conversie.py": "3a4ffab3d19113c998a1264c0c0187d97e0c3ba6bd7cab066ec0d07634208527",
+    "2026/L02/student/Suport_laborator.docx": "d09166ebfe468cec25dfd90f6c95d1f65101d05d6a251fa87fb39ad8324fa2fe",
+    "2026/L02/student/Suport_laborator.pdf": "186a8dbda7622d78eb5ee17fe3ed2ab1837e79151bc4f34954671a6d08c648b6",
+    "2026/L02/student/exemple/L02_colectii.py": "0f18ae7d299302785a69407a626d533f270ad2448fff02223b52c863c5dfbec8",
+    "2026/L02/student/gitignore.txt": "5a19ad7ed741b32ab075ee52e4724e8a62c6f6567693e8ca54c5fe661ea2a99e"
   }
 }
